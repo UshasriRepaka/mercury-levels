@@ -4,6 +4,8 @@ A Java algorithm which estimates the value of some missing values that correspon
 
 ## Problem
 
+![graph](https://github.com/fadelgaber/Mercury_Levels/blob/master/levels_graph.png)
+
 A time series of daily readings of mercury levels in a river is provided. In each test case, the day's highest level is missing for certain days. By analysing the data, try to identify the missing mercury levels for those days. Each row of data contains two tab-separated values: a time-stamp and the day's highest reading.
 
 There are exactly twenty rows marked missing in each input file. The missing values are marked as "Missing_1", "Missing_2", etc. These missing records have been randomly dispersed in the rows of data.
